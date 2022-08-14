@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>USB</item>
+        <item>BT3</item>
+        <item>BT4</item>
+    </string-array>
+
+    <string-array name="xfr_command">
+        <item>00A4040007A000000003101000</item>
+        <item>00A4040007A000000004101000</item>
+        <item>00A4040007A000000736201050</item>
+        <item>80A8000002830000</item>
+        <item>80A800000483025541</item>
+        <item>00B2010C00</item>
+        <item>00B2011400</item>
+        <item>00B2011C00</item>
+        <item></item>
+    </string-array>
+</resources>
